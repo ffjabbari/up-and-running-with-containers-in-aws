@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      Show me the update
+      Show me the updateFredd
     </div>
   );
 }
